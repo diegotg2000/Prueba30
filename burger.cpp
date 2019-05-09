@@ -6,9 +6,9 @@
 using namespace std;
 
 const float pi=3.141519265359;
-const float epsilon=0.7;
-const float dt=0.01;
-const float dx=0.01;
+const float epsilon=0.8;
+const float dt=0.005;
+const float dx=0.005;
 const float beta=epsilon*dt/dx;
 const float T=2;
 const float L=1;
